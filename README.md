@@ -127,4 +127,4 @@ m是输入向量的个数，n为向量的维度；矩阵r（m，n）为输入的
 2-d数据集聚类前：<br>
 ![](https://github.com/Chicharito999/ImageCache/raw/master/image/图片3.png)<br>
 2-d数据集聚类后：<br>
-![](https://github.com/Chicharito999/ImageCache/raw/master/image/图片4.png)<br>
+![](https://github.com/Chicharito999/ImageCache/raw/master/image/图片4.png)<br> 
